@@ -1,2 +1,3 @@
 # fragrancedb
-Fragrance database website
+Fragrance database website 
+https://yourusername.github.io/fragrancedb
